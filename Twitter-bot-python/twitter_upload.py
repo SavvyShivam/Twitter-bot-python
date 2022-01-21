@@ -6,11 +6,11 @@
 import tweepy
 
 # 2. Store credentials
-apiKey = "LFuvye8aE8YamnPSYNMoMfxoi"
-apikeySecret = "dOoHGuUWf2PtK0RtLVEyHCNnUPMbkJHJkif1eRkWKKvoX5CA8P"
+apiKey = "lQtoqbP06j63jRecuzGhtIg67"
+apikeySecret = "cJntAXglzg9kItO4MWlhFY4NNFELyUGi57W5ZI2Ij18x8NjiHr"
 
-accessToken = "3068409066-aRv2vgSxuFvltPKF0LjFL035Sm9CHtwaTvhWLxQ"
-accessTokenSecret = "MK5f0rEAX6AjSA6H5Rd6nRsaYWHUlwCNZjfTfkIflbcvv"
+accessToken = "2864972028-QjzmelJbN2svrRRe60VKwFwPzG9GHzIATRYxYl2"
+accessTokenSecret = "nsS7Hc9JSd16uHeOZ8vnfbXAOJtAdd0QvR3sao871uPXl"
 
 
 # 3. Create Oauth client and set authentication and create API object
